@@ -1,0 +1,52 @@
+// Sample Data after Registering 
+
+  {
+    "_id": "639030cc9dcd6776e5889917",
+    "mail": "selvatest@gmail.com",
+    "phone": 7722334983,
+    "__v": 0
+  },
+  {
+    "_id": "6390349ada1a4e1210ac435d",
+    "mail": "tamarai@gmail.com",
+    "phone": 9843212345,
+    "__v": 0
+  }
+]
+
+//Sample Data after Booking order
+
+  {
+      "_id": "6390b1ac427611cc719f3611",
+      "Name": "Nandha",
+      "Phone": 8823412414,
+      "GeneralService": false,
+      "OilChange": true,
+      "BikeWash": true,
+      "DateOfNeeded": "19/12/2022",
+      "Delivery": "Delivered",
+      "__v": 0
+    },
+    {
+      "_id": "6390b1c78ab5e45cba0c274f",
+      "Name": "Nandha",
+      "Phone": 8823412414,
+      "GeneralService": false,
+      "OilChange": true,
+      "BikeWash": true,
+      "DateOfNeeded": "19/12/2022",
+      "Delivery": "Pending",
+      "__v": 0
+    },
+    {
+      "_id": "6390baf6289f46356de93961",
+      "Name": "Allen",
+      "Phone": 9726617834,
+      "GeneralService": true,
+      "OilChange": true,
+      "BikeWash": true,
+      "DateOfNeeded": "27/12/2022",
+      "Delivery": "Delivered",
+      "__v": 0
+    }
+  
